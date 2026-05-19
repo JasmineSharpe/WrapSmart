@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# WrapSmart
+AI-powered personalized gift recommendation platform based on interests, demographics, trends, and budget.
+>>>>>>> fa17c5b1b397a86c478e086585d3da8182b918ee
